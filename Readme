@@ -1,0 +1,10 @@
+a state transition table as a two-dimensional integer array
+
+
+data set: 
+
+Terminals=ab
+Nonterminals=SAEFHDGC
+Final states=CDFGH
+
+
